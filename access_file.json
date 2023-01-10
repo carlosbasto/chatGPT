@@ -1,0 +1,11 @@
+{
+
+    "user": "USER_NAME",
+
+    "password": "PASSWORD",
+
+    "address": "SAP HANA Cloud Address",
+
+    "port": "PORT"
+
+}
